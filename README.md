@@ -1,6 +1,6 @@
-# Sistema de Gestão de Almoxarifado e Ordens de Produção (ALOOZ)
+# Sistema de Gestão de Almoxarifado e Ordens de Produção
 
-Sistema para digitalizar o controle de Ordens de Produção (OPs) e do Almoxarifado da **ALOOZ Comunicação Visual**, empresa especializada na produção de letreiros, fachadas e estruturas de sinalização para grandes redes (McDonald's, KFC, Subway, entre outras).
+Sistema para digitalizar o controle de Ordens de Produção (OPs) e do Almoxarifado de uma empresa de comunicação visual e sinalização, especializada na produção de letreiros, fachadas e estruturas de sinalização para grandes redes de clientes.
 
 Atualmente esses processos são feitos de forma manual: as OPs circulam em papel entre os setores da fábrica e o controle de materiais é feito em planilhas Excel com PROCV. Isso gera perda de rastreabilidade, dificuldade em saber o status/localização de uma OP, e retrabalho na separação de materiais no almoxarifado.
 
@@ -89,4 +89,4 @@ cd Sistema-Gestao-Operacional
 
 ## Autor
 
-Desenvolvido por **Gabriel de Souza Rocha**, estudante de Sistemas de Informação (UNIVAS) e Almoxarife na ALOOZ Comunicação Visual.
+Desenvolvido por **Gabriel de Souza Rocha**, estudante de Sistemas de Informação (UNIVAS) e Almoxarife em uma empresa de comunicação visual e sinalização.
