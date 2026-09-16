@@ -89,4 +89,4 @@ cd Sistema-Gestao-Operacional
 
 ## Autor
 
-Desenvolvido por **Gabriel de Souza Rocha**, estudante de Sistemas de Informação (UNIVAS) e Almoxarife em uma empresa de comunicação visual e sinalização.
+Desenvolvido por **Gabriel de Souza Rocha** e **Jorge Ricardo de Carvalho Simões**, estudantes de Sistemas de Informação (UNIVAS) e Almoxarife em uma empresa de comunicação visual e sinalização.
