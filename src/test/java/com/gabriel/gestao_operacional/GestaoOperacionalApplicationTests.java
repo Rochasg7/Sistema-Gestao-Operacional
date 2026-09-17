@@ -1,10 +1,10 @@
-package com.gabriel.sistema_almoxarifado;
+package com.gabriel.gestao_operacional;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SistemaAlmoxarifadoApplicationTests {
+class GestaoOperacionalApplicationTests {
 
 	@Test
 	void contextLoads() {

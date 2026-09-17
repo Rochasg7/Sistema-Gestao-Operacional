@@ -1,10 +1,10 @@
 # Sistema de Gestão de Almoxarifado e Ordens de Produção
 
-Sistema para digitalizar o controle de Ordens de Produção (OPs) e do Almoxarifado de uma empresa de comunicação visual e sinalização, especializada na produção de letreiros, fachadas e estruturas de sinalização para grandes redes de clientes.
+Sistema pessoal para digitalizar o controle de Ordens de Produção (OPs) e do Almoxarifado em empresas do setor industrial que fabricam produtos sob encomenda para clientes corporativos.
 
-Atualmente esses processos são feitos de forma manual: as OPs circulam em papel entre os setores da fábrica e o controle de materiais é feito em planilhas Excel com PROCV. Isso gera perda de rastreabilidade, dificuldade em saber o status/localização de uma OP, e retrabalho na separação de materiais no almoxarifado.
+Atualmente, em muitas empresas desse tipo, esses processos ainda são feitos de forma manual: as OPs circulam em papel entre os setores da fábrica e o controle de materiais é feito em planilhas Excel com PROCV. Isso gera perda de rastreabilidade, dificuldade em saber o status/localização de uma OP, e retrabalho na separação de materiais no almoxarifado.
 
-Este projeto nasceu como estudo pessoal de engenharia de software e também como projeto de portfólio, sendo desenvolvido em ritmo próprio, sem prazo definido.
+Este projeto nasceu como estudo pessoal de engenharia de software e também como projeto de portfólio, inspirado em desafios reais observados no dia a dia de operações de produção e almoxarifado, sem vínculo com nenhuma empresa específica. É desenvolvido em ritmo próprio, sem prazo definido.
 
 ## Objetivo
 
@@ -89,4 +89,4 @@ cd Sistema-Gestao-Operacional
 
 ## Autor
 
-Desenvolvido por **Gabriel de Souza Rocha** e **Jorge Ricardo de Carvalho Simões**, estudantes de Sistemas de Informação (UNIVAS) e Almoxarife em uma empresa de comunicação visual e sinalização.
+Projeto pessoal desenvolvido por **Gabriel de Souza Rocha** e **Jorge Ricardo de Carvalho Simões**, estudantes de Sistemas de Informação (UNIVAS), como estudo de engenharia de software e projeto de portfólio.
