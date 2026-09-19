@@ -89,4 +89,4 @@ cd Sistema-Gestao-Operacional
 
 ## Autor
 
-Projeto pessoal desenvolvido por **Gabriel de Souza Rocha** e **Jorge Ricardo de Carvalho Simões**, estudantes de Sistemas de Informação (UNIVAS), como estudo de engenharia de software e projeto de portfólio.
+Projeto pessoal desenvolvido por **Gabriel de Souza Rocha** e **Jorge Ricardo de Carvalho Simões**, estudantes de Sistemas de Informação (UNIVAS), como estudo de engenharia de software, gestão de projetos e projeto de portfólio.
