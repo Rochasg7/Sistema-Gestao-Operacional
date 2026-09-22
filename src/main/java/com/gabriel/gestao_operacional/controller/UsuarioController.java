@@ -2,7 +2,6 @@ package com.gabriel.gestao_operacional.controller;
 
 import com.gabriel.gestao_operacional.model.Usuario;
 import com.gabriel.gestao_operacional.service.UsuarioService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -11,8 +10,11 @@ import java.util.List;
 @RequestMapping("/usuarios")
 public class UsuarioController {
 
-    @Autowired
-    private UsuarioService usuarioService;
+    private final UsuarioService usuarioService;
+
+    public UsuarioController(UsuarioService usuarioService) {
+        this.usuarioService = usuarioService;
+    }
 
     @PostMapping
     public Usuario criar(@RequestBody Usuario usuario) {

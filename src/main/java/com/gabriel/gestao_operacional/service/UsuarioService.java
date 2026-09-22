@@ -2,7 +2,6 @@ package com.gabriel.gestao_operacional.service;
 
 import com.gabriel.gestao_operacional.model.Usuario;
 import com.gabriel.gestao_operacional.repository.UsuarioRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -10,8 +9,11 @@ import java.util.List;
 @Service
 public class UsuarioService {
 
-    @Autowired
-    private UsuarioRepository usuarioRepository;
+    private final UsuarioRepository usuarioRepository;
+
+    public UsuarioService(UsuarioRepository usuarioRepository) {
+        this.usuarioRepository = usuarioRepository;
+    }
 
     public Usuario criar(Usuario usuario) {
         return usuarioRepository.save(usuario);
